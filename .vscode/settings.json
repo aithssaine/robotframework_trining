@@ -1,0 +1,5 @@
+{
+  "robot.language-server.python": "${workspaceFolder}/../robot-env/bin/python",
+  "robot.variables": {},
+  "files.associations": { "*.resource": "robotframework" }
+}
